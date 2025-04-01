@@ -301,3 +301,4 @@ echo --help
 --help echo
 man echo
 man echo
+./questionnaire.sh
