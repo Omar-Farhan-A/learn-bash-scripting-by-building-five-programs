@@ -370,3 +370,4 @@ __vsc_original_prompt_command=${PROMPT_COMMAND:-}
 touch countdown.sh
 chmod countdown.sh +x
 chmod +x countdown.sh
+./countdown.sh
