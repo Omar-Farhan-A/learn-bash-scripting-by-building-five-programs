@@ -420,3 +420,4 @@ __vsc_prompt_cmd_original
 ./countdown.sh 1
 ./countdown.sh -10
 help
+./countdown.sh 10
