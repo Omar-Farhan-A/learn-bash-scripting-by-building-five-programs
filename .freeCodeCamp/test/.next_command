@@ -394,3 +394,4 @@ help test
 ./countdown.sh [[ ]]
 ./countdown.sh [[ 4 -le 5 ]]
 [[ 4 -le 5 ]]
+echo $?
