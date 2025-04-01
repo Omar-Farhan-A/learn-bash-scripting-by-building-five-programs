@@ -451,3 +451,6 @@ echo $I
 ((I++))
 (( I++ ))
 echo $I
+((I++))
+echo $I
+help let
