@@ -231,3 +231,4 @@ trap '__vsc_preexec_all "$_"' DEBUG
 __vsc_original_prompt_command=${PROMPT_COMMAND:-}
 ./questionnaire.sh
 ./questionnaire.sh
+__vsc_prompt_cmd_original
