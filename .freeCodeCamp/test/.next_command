@@ -418,3 +418,4 @@ __vsc_prompt_cmd_original
 [[ -x countdown. || 5 -le 4 ]]
 [[ -x countdown.sh || 5 -le 4 ]]
 ./countdown.sh 1
+./countdown.sh -10
