@@ -371,3 +371,6 @@ touch countdown.sh
 chmod countdown.sh +x
 chmod +x countdown.sh
 ./countdown.sh
+./countdown.sh arg1 arg2 agr3
+./countdown.sh arg1 arg2 agr3
+./countdown.sh arg1 arg2 arg3
